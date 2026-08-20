@@ -1,5 +1,6 @@
 # TicketPricingModel
 This project is designed to simulate an NFL teams Strategy & Analysis data platform. The goal is to integrate games, ticket pricing, inventory and sales data into a centralized dataset that can be used to understand demand patterns and support pricing and inventory decisions. 
+## Note: Ticket inventory and sales data in this project are synthetic and created for demonstration purposes. They are not representative of actual Los Angeles Chargers ticketing data.
 
 ## Which game characteristics are associated with higher ticket demand? 
 - team popularity
